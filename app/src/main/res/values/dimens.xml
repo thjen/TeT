@@ -1,0 +1,36 @@
+<resources>
+
+    <dimen name="marginLarge">16dp</dimen>
+    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="mediumMargin">10dp</dimen>
+    <dimen name="supperMediumMargin">20dp</dimen>
+    <dimen name="bigMargin">25dp</dimen>
+    <dimen name="supperLargeMargin">30dp</dimen>
+    <dimen name="nestedMargin">110dp</dimen>
+
+    <dimen name="smallRadius">5dp</dimen>
+    <dimen name="mediumRadius">10dp</dimen>
+    <dimen name="largeRadius">15dp</dimen>
+    <dimen name="smallElevation">2dp</dimen>
+    <dimen name="largeElevation">5dp</dimen>
+    <dimen name="collapsingtoolbar">250dp</dimen>
+    <dimen name="navigationViewWidth">443dp</dimen>
+    <dimen name="textSend">400dp</dimen>
+    <dimen name="cardMenu">110dp</dimen>
+    <dimen name="dialogContac">500dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="imageclear">40dp</dimen>
+    <dimen name="btloginMargin">130dp</dimen>
+    <dimen name="buttonn">160dp</dimen>
+    <dimen name="marginSearch">100dp</dimen>
+    <dimen name="marginList">100dp</dimen>
+    <dimen name="margincmm">150dp</dimen>
+    <dimen name="searchheight">40dp</dimen>
+    
+    <dimen name="smallText">15sp</dimen>
+    <dimen name="mediumText">20sp</dimen>
+    <dimen name="quiteText">25sp</dimen>
+    <dimen name="largeText">30sp</dimen>
+    <dimen name="superLargeText">35sp</dimen>
+
+</resources>

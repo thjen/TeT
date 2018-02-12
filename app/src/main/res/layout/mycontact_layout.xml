@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/mediumMargin"
+    android:layout_marginRight="@dimen/marginLarge"
+    android:layout_marginLeft="@dimen/marginLarge"
+    android:layout_marginBottom="@dimen/mediumMargin">
+
+    <TextView
+        android:paddingLeft="@dimen/smallMargin"
+        android:textSize="@dimen/quiteText"
+        android:textColor="@color/appllenew"
+        android:id="@+id/nameContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <CheckBox
+        android:layout_below="@+id/nameContact"
+        android:textSize="@dimen/mediumText"
+        android:textColor="@color/textBlack"
+        android:focusable="false"
+        android:clickable="false"
+        android:layout_centerVertical="true"
+        android:id="@+id/checkContact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

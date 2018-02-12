@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dialogContac"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white">
+
+    <ImageView
+        android:layout_marginLeft="@dimen/marginLarge"
+        android:layout_marginTop="@dimen/marginLarge"
+        android:id="@+id/bt_quit"
+        android:src="@drawable/clear"
+        android:layout_width="@dimen/imageclear"
+        android:layout_height="@dimen/imageclear" />
+
+    <TextView
+        android:textSize="@dimen/quiteText"
+        android:textColor="@color/textBlack"
+        android:text="@string/chooseNumberphone"
+        android:paddingLeft="@dimen/mediumMargin"
+        android:layout_marginTop="@dimen/marginLarge"
+        android:layout_toRightOf="@+id/bt_quit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="@dimen/mediumMargin"
+        android:layout_below="@+id/bt_quit"
+        android:layout_above="@+id/card4"
+        android:id="@+id/recyclerContact"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <android.support.v7.widget.CardView
+        android:layout_margin="@dimen/marginLarge"
+        android:id="@+id/card4"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:cardCornerRadius="@dimen/smallMargin"
+        app:cardElevation="@dimen/largeElevation"
+        app:cardUseCompatPadding="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:textAllCaps="false"
+            android:background="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/send"
+            android:id="@+id/sendWithContact"/>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
+
+
+

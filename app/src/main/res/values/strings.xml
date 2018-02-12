@@ -1,0 +1,393 @@
+<resources>
+    <string name="app_name">Chúc TếT</string>
+
+    <string-array name="hay">
+
+        <item>Chúc mừng năm mới! Sung sướng trong tình yêu, sung túc trong công việc và sung mãn trong sức khỏe bạn nhé</item>
+        <item>Kính chúc tất cả mọi người đón chào 1 năm mới thật vui, thật nhiều tiếng cười. Năm mới sức khỏe dồi dào, gặp được nhiều may mắn, thuận lợi,.. từ đó sẽ gặt hái được nhiều thành công mới!</item>
+        <item>Chúc năm Mậu Tuất thành công luôn tới, sức khỏe tuyệt vời, may mắn khắp nơi, làm nhiều điều mới.</item>
+        <item>Anh năm anh mới đã tới, đã tới 2018. Happy new year!</item>
+        <item>Chúc mừng năm mới, Chúc mọi người những điều tốt lành nhất, may mắn sức khỏe dồi dào gia đình vui vẻ và hạnh phúc.</item>
+        <item>Happy new year 2018, Good luck for you 2018.</item>
+        <item>Năm mới zui zẻ !!!!!!!!!!! happy new year 2018.</item>
+        <item>Chúc mừng năm mới. Hãy giữ lại những quá khứ đẹp để động viên bản thân và bạn bè! Hãy quên đi những dĩ vãng buồn để cuộc đời ý nghĩa hơn! Một năm mới với nhiều niềm tin sẽ thành sự thật! Mỹ mãn, mỹ mãn!  Năm mới đã tới, hai không mười bảy, là năm rất đẹp, rất nhiều điều may, chẳng phải quá hay, chúc mừng năm mới.</item>
+        <item>Nhân dịp năm mới, cầu mong cho những đều tốt đẹp nhất sẽ đến với tất cả các bạn. Ai cũng đẹp... Ai cũng xinh... Ai cũng lung linh... Chúc các bạn có một năm mới hạnh phúc bên người thân và gia đình.</item>
+        <item>Năm mới, con chúc cả gia đình mình một năm an khang và hạnh phúc, một năm bình an về sức khoẻ, thăng hoa về tiền bạc. Yêu lắm gia đình nhỏ bé của con! Hãy cùng nhau nắm tay, chung tay xây dựng một gia đình hạnh phúc an khang.</item>
+        <item>Chúc các ông các bà sống lâu trăm tuổi cùng con cháu. Các cô các chú thành công trong công việc. Các em tiền đầy túi tình đầy tim nhé. Riêng các cháu nhỏ thì ngoan ngoãn, học hành chăm chỉ. Chúc mừng năm mới!</item>
+        <item>Nhân dịp năm mới, chúc cho toàn thể anh chị em, con cháu trong gia chung họ ....(Trần,Nguyễn...) 1 năm an khang, thịnh vượng, tấn tài tấn lộc, 1 năm bình an, tiền vài như nước... Ai đang công tác thì thành đạt, vạn sự hạnh thông, ai đang đi học thì giỏi giang, tiến bộ... Toàn gia hạnh phúc, sum vầy, yêu thương, đùm bọc lẫn nhau.</item>
+        <item>Chúc bạn: 12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công 31536000 giây vạn sự như ý.</item>
+        <item>Năm mới chúc nhau sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Gia đình hạnh phúc bè bạn quý. Thanh thản vui chơi mọi buổi chiều.</item>
+        <item>Chúc cho gia đình mình luôn mãi đầy ắp tiếng cười, tài lộc luôn sung túc và hạnh phúc luôn ngập tràn. Hình ảnh con trẻ với khí thế của ngày đầu năm, cầu mong cho gia đình luôn mạnh khỏe và an lành.</item>
+        <item>Tân niên kính chúc mọi nhà. An khang đầm ấp đậm đà tình thương. Người người hạnh phúc ấm nồng. Chắng còn khổ lụy đau buồn cô đơn. Độc thân sớm có tình hồng. Yêu thương xin chúc mặn nồng mãi thôi. Kính chúc tất cả mọi người. Năm mới hạnh phúc rạng ngời thành công.</item>
+        <item>Chiềng làng chiềng xã, thượng hạ đông tây, xa gần đó đây, vểnh tai nghe chúc:  Tân niên sung túc, lắm phúc nhiều duyên, trong túi nhiều tiền, tâm hồn vui sướng.</item>
+        <item>Chúc mọi người khoẻ như hổ, sống lâu như rùa, mắt tinh như đại bàng, nhanh nhẹn như thỏ, tinh ranh như cáo, ăn nhiều như … heo, mau ăn chóng nhớn, tiền vô như nước, phúc lộc nhiều như dịch châu chấu tràn về.</item>
+        <item>Mùa xuân xin chúc - Khúc ca an bình - Năm mới phát tài - Vạn sự như ý - Già trẻ lớn bé - Đầy ắp tiếng cười - Trên mặt ngời ngời - Tràn đầy hạnh phúc - Xuân đến hy vọng - Ấm no mọi nhà - Kính chúc ông bà - Sống lâu trăm tuổi - Kính chúc ba mẹ - Sức khoẻ dồi dào - Đôi lứa yêu nhau - Càng thêm nồng ấm - Các em bé nhỏ - Học giỏi chăm ngoan - Chúc Tết mọi người - Năm mới hoan hỉ - Gặp nhiều niềm vui…</item>
+        <item>Chúc mừng năm mới 2018, chúc mọi điều bằng an và tốt đẹp tới bạn và gia đình.</item>
+        <item>2018, 8 thì quá phát, 1 năm may mắn, 0 gì cản trở, 2 mình tiến lên. Chúc mừng năm mới.</item>
+        <item>Chúc mọi điều tốt đẹp trong năm mới nhé. Happy new year!</item>
+        <item>Năm mới chúc nhau sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2018 !!!</item>
+        <item>1 năm mới, 1 tuổi mới,nhiều bạn mới, nhiều hiểu biết mới và 1 lời chúc Mãi mãi hạnh phúc bên gia đình và những người thân yêu nhất.</item>
+        <item>Chúc các bạn nhiều lý do để vui vẻ năm tới!</item>
+        <item>Chúc bạn luôn vui vẻ, bình an và hạnh phúc trong năm mới!</item>
+        <item>Chúc năm mới: 1 vợ, 2 con, nhà 3 tầng, xe 4 chỗ!</item>
+        <item>Chúc mọi người hay ăn chóng béo, tiền nhiều như kẹo, tình chặt như keo, dẻo dai như mèo, mịn màng trắng trẻo, sức khỏe như voi.</item>
+        <item>Năm mới năm me. Gia đình mạnh khỏe. Mọi người tươi trẻ. Đi chơi vui vẻ.</item>
+        <item>Chúc mừng năm mới! Sung sướng trong tình yêu, sung túc trong công việc và sung mãn trong sức khỏe em nhé.</item>
+        <item>Chúc mọi người năm mới, tiền vào bạc tỉ, tiền ra rỉ rỉ, miệng cười hi hi, vạn sự như ý, cung hỉ, cung hỉ!</item>
+        <item>Chúc cả gia đình bạn vạn sự như ý Tỉ sự như mơ Triệu điều bất ngờ Không chờ cũng đến!</item>
+        <item>Chúc các bạn có 1 cái tết vui vẻ, hạnh phúc, vạn sự như ý, “Tiền vào như nước sông Đà. Tiền ra nhỏ giọt như cà phê phin”</item>
+        <item>Chúc các bạn có nhiều người để ý. Tỏ tình nhiều ý. Tiền nhiều nặng ký. Công việc vừa ý. Miệng cười mắt ti hí. Sống Lâu Một tí.</item>
+        <item>Chúc mừng năm mới bách nhẫn thái hòa. Chúc mừng năm mới phúc sinh lễ nghĩa gia đình thịnh Lộc tiền vinh hoa phú quý xuân!</item>
+        <item>Chúc mừng năm mới tấn tài, tấn lộc Chúc mừng năm mới ngũ phúc lâm môn.</item>
+        <item>Chúc mừng năm mới Xuân đến gia đình vui xum họp Tết về con cháu hưởng bình an</item>
+
+    </string-array>
+
+    <string-array name="tho">
+
+                <item>
+Vợ ơi anh bảo vợ này
+Xuân sang tết đến anh say mất rồi
+Say là say mắt vợ cười
+Say là say cái duyên tươi mỗi lần
+Trên đời bao thứ đẹp xinh
+Nhưng mà anh cũng có cần chi đâu
+Vì anh có vợ tình sâu
+Vì anh có vợ đứng đầu đảm đang
+Xuân về chúc vợ đẹp sang
+Mãi là ngọc nữ, bà hoàng nhà anh</item>
+
+        <item>Vui vẻ, lạc quan Yêu đời phơi phới
+            Hạnh phúc sẽ tới
+            Niềm vui sẽ về
+            Chúc mừng năm mới 2018.</item>
+        <item>Chúc năm mới:
+            Vừa đủ HẠNH PHÚC để giữ tâm hồn bạn được ngọt ngào.
+            Vừa đủ THỬ THÁCH để giữ bạn luôn kiên nhẫn.
+            Vừa đủ MUỘN PHIỀN để giữ bạn thật sự tỉnh táo.
+            Vừa đủ HY VỌNG để cho bạn được hạnh phúc.
+            Vừa đủ THẤT BẠI để bạn mãi khiêm nhường.
+            Vừa đủ THÀNH CÔNG để giữ bạn mãi nhiệt tâm.
+            Vừa đủ BẠN BÈ để bạn được an ủi.
+            Vừa đủ VẬT CHẤT để đáp ứng các nhu cầu vật chất của bạn.
+            Vừa đủ NHIỆT TÌNH để bạn cho đời thêm hân hoan.
+            Vừa đủ NIỀM TIN để xua tan những thất vọng.</item>
+        <item>Một năm vất vả
+            Thế là đã qua
+            Ta chào năm mới
+            Chúc nhau lời ca
+            Bình an vô sự, mọi điều tốt lành
+            Chúc mừng năm mới.</item>
+        <item>Mừng năm mới
+            Kính chúc bạn
+            Sức khỏe dồi dào
+            Vạn sự như ý
+            Gia đình hòa thuận
+            Chuyện vui đến nhiều
+            Chuyện buồn không ghé
+            Luôn luôn an lạc
+            Làm ăn tấn tới
+            Một vốn bốn lời
+            Thời cơ đang đợi.</item>
+        <item>Chúc mừng năm mới
+            Công danh sáng ngời
+            May mắn khắp nơi
+            Đổ về tơi tới.</item>
+        <item>Chúc mừng năm mới
+            Tâm trí thảnh thơi
+            Thỏa mái vui chơi
+            Đời luôn tươi mới.</item>
+        <item>Chúc mừng năm mới
+            Sức khỏe vô đối
+            Bệnh viện không tới
+            Bác sỹ chả chơi.</item>
+        <item>Chúc mừng năm mới
+            Đôi lứa khắp nơi
+            Tình cảm sáng ngời
+            Yêu không vụ lợi.</item>
+        <item>Chúc mừng năm mới
+            Hạnh phúc, yêu đời
+            Người người nơi nơi
+            Niềm vui phơi phới
+            Chúc mừng năm mới 2018.
+        </item>
+        <item>Thần thời gian xoay tròn mùa hạ
+            Thu qua rồi đông mới chia tay
+            Ngày xuân đã rộng vòng tay
+            Đón người sum họp vui vầy mừng xuân
+            Ông bà con cháu quây quần
+            Gia đình sung túc vang ngân nụ cười
+            Nếm vị hạnh phúc đầu môi
+            Chúc cho mọi người năm mới an vinh
+            Chúc cho cuộc sống thanh bình
+            Mạnh khỏe sung túc thêm tình thêm vui
+            Chúc cho vang mãi nụ cười
+            Ông bà mạnh khỏe nghỉ ngơi an nhàn
+            Chúc anh chúc chị thăng quan
+            Công tác thuận lợi chứa chan lộc về
+            Chúc cho con cháu đề huề
+            Học giỏi ngoan ngoãn rinh về bằng khen
+            Vợ chồng tình cảm chứa chan
+            Chúc cho cuộc sống là ngàn ngày vui
+            Ngoài kia pháo nổ vang trời
+            Chấm vào thời khắc đất trời sang xuân.
+        </item>
+
+        <item>
+            Mãi mãi bên em tiếng Thầy vang vọng
+            Đã xa rồi mà cứ ngỡ hôm qua.
+            Bao lữ khách đi về trên bến vắng.
+            Người qua sông ai nhớ bến sông đời.
+            Từng dòng chữ suốt một đời lặng lẽ.
+            Vẫn âm thầm như bụi phấn rơi rơi.
+            Thầy cô như ánh nến soi tỏ đêm khuya.
+            Như tấm bảng đen vẽ nên kiến thức trong mỗi học trò.
+            Dẫu mai đi bốn phương trời những lời thầy dạy đời đời khắc ghi.
+            KÍNH CHÚC THẦY CÔ NĂM MỚI AN KHANH THỊNH VƯỢNG GIA ĐÌNH SỨC KHỎE</item>
+
+        <item>
+            Xuân Chúc Thầy:
+            Xuân mới đến, 2017
+            Sự bình an, sánh bước cùng Thầy
+            Gia Đình, hạnh phúc xum vầy
+            An khang, thịnh Vượng, ngày ngày luôn xuân
+            Công danh giữa chốn thương trường
+            Trên yêu, dưới mến, cầm cương vững vàng
+            Chiến công, thành tựu huy hoàng
+            Luôn mang ý đẹp
+            Rạng danh công thầy.
+
+            Chúc thầy năm mới con chó. Gia đình sum họp ấy là niềm vui. Chúc thầy năm mới rạng ngời. Trời cho thầy khỏe giúp thuyền vươn xa
+
+            Xuân chúc Cô:
+            Xuân mới 2017
+            Con chúc Cô vạn ý viên thành
+            Gia Đình hưởng trọn yên Bình
+            Lộc tài thịnh vượng, thắm tình như xuân
+            Trên yêu mến, dưới thương toại ý
+            Công danh luôn thành ý, toại lòng
+            Cô luôn kết quả, thành công
+            Xuân vui hoa nở, tổ tông mỉm cười</item>
+
+    </string-array>
+
+    <string-array name="chame">
+
+        <item>Một mùa xuân mới đã đến, con kính chúc ba mẹ luôn khỏe mạnh, hạnh phúc bên chúng con và đón một năm mới an lành, sung túc và tràn ngập hạnh phúc.</item>
+        <item>Mẹ ơi, mẹ vừa là người mẹ hiền, lại là người cha nghiêm khắc của chúng con. Chúng con lớn lên trong sự nhọc nhằn từ cuộc sống của mẹ. Giờ chúng con đã lớn nhưng mỗi đứa một phương, mẹ lại cặm cụi sống một mình. Mẹ chỉ mong sao các con của mẹ luôn bình yên và hạnh phúc. Mẹ thường nói món quà lớn nhất mẹ nhận được là hạnh phúc của các con. Năm hết Tết đến, con cầu mong mẹ luôn khỏe mạnh cùng chúng con. Mẹ ơi, con chỉ nói với mẹ một điều: con yêu mẹ nhiều nhiều lắm.</item>
+        <item>Xuân đang về và người người đang nô nức đón xuân. Tết năm nay thật đặc biệt, con gái đã có gia đình riêng của mình nhưng con biết con mãi là đứa con gái bé bỏng của mẹ cần mẹ yêu thương vỗ về khi gặp những trắc trở khó khăn trong cuộc sống.</item>
+        <item>Con mong rằng, mỗi mùa xuân trôi qua con đều được gửi lời chúc đến mẹ, con yêu mẹ nhiều lắm.</item>
+        <item>Một mùa xuân nữa lại về, con xin lỗi ông vì con ở xa lại mải mê công việc nên không thường xuyên về thăm ông. Năm mới đến, con chúc ông luôn sống lâu sống thọ để vui vầy cùng con cháu, ông nhé.</item>
+        <item>Màu xuân chim én lượn chao Bính Thân năm mới, ta cùng chúc nhau. Chúc bố sức khỏe dồi dào Mẹ thêm tuổi mới, ốm đau chẳng còn. Mãi mãi sống cùng các con Cùng nhau hạnh phúc, chúng con vui vầy. Anh em con cùng đến đây Sum vầy hạnh phúc, đón vàng lộc xuân.</item>
+        <item>Vài năm trước khi chúng tôi còn nhỏ mẹ bảo: “Cuộc đời của mẹ chỉ cần nhìn thấy các con trưởng thành, khôn lớn là mẹ mãn nguyện”. Khi chúng tôi lớn và trưởng thành có cuộc sống riêng thì mẹ lại bảo: “Giờ đây, mẹ chỉ mong các cháu lớn nhanh cho các con đỡ vất vả và muốn nhìn thấy các cháu ổn định cuộc sống”. Mẹ tôi đấy, cuộc đời của mẹ chỉ mong muốn cho các con, các cháu mẹ được ổn định có cuộc sống tốt mà mẹ không hề nghĩ cho bản thân mình.</item>
+        <item>Chúc mẹ một mùa xuân tràn đầy sức khoẻ, hạnh phúc và may mắn, vạn sự như ý, sống lâu trăm tuổi để tận hưởng niềm vui và mỗi năm mẹ lại đem mùa xuân về cho gia đình.</item>
+        <item>Con kính chúc ba má sức khỏe dồi dào, lúc nào cũng “tươi trẻ” như thời mới yêu. Mong nhà mình lúc nào cũng quây quần, chị em chúng con luôn được nghe tiếng cười đùa vui vẻ của ba má.</item>
+        <item>Ba ơi, Tết năm nay ba bước sang tuổi 61, con chúc ba ăn Tết thật vui, hạnh phúc và có nhiều kỷ niệm đẹp bên con, cháu. Dù cả đời này ba sẽ không được lên chức “ông nội” nhưng con mong rằng ba sẽ mãn nguyện bên các cháu ngoại. Chúng con sẽ thay anh ba chăm sóc ba má.</item>
+        <item>Năm mới đã tới, con chúc Bố mãi trẻ khỏe, dẻo dai. Xuân sang con gái yêu chúc Mẹ ngày càng tươi tắn, xuân sắc hơn xuân. Con mãi yêu gia đình nhỏ bé, thân thường này.</item>
+        <item>Con chúc ba mẹ năm mới nhiều niềm vui mới, mọi khó nhọc trên đôi vai sẽ vơi bớt đi. Con chúc ba mẹ sống lâu trăm tuổi. Con chúc ba mẹ của con sống vui cùng con cháu</item>
+        <item>Tết Đinh Dậu, con chúc Bố mãi trẻ khỏe, dẻo dai. Xuân sang con gái yêu chúc Mẹ ngày càng tươi tắn, xuân sắc hơn xuân. Con mãi yêu gia đình nhỏ bé, thân thường này.</item>
+        <item>Dẫu biết rằng vẫn còn nhiều bất đồng ý kiến và bất công tại gia đình mình. Tuy không nói ra nhưng tận sâu trong thâm tâm con vẫn mong muốn rằng cha mẹ luôn dồi dào sức khỏe, minh mẫn trong Xuân Đinh Dậu này và hàng trăm xuân sắp tới. Con yêu ba mẹ!</item>
+        <item>Một mùa xuân nữa con không về ăn tết cùng ba mẹ và các em, con buồn lắm. Con kính chúc gia đình mình luôn mạnh khỏe, tràn đầy niềm vui và hạnh phúc đong đầy. Con nhớ ba mẹ và các em nhiều lắm lắm.</item>
+        <item>Một năm mới nữa lại đến rồi, thời gian càng trôi nhanh thì lưng má càng thêm còng, tóc ba thêm sợi bạc và vì vậy tình thương của anh chị em chúng con dành cho ba má lại càng thêm dày. Tết đến, xuân về, con gửi đến ba má ngàn lời yêu thương trìu mến, kính chúc ba má thêm nhiều hạnh phúc, sống vui sống khỏe. Tết này con sẽ về bên ba má để thấy rằng cuộc sống còn thú vị lắm, còn có những cái Tết luôn ngập tràn yêu thương. Cầu mong cho ba má sống lâu hơn với các con các cháu. Chúc mừng năm mới!</item>
+        <item>Mẹ kính yêu, lòng mẹ bao la như biển Thái Bình...\" Bài hát ấy cứ vang vọng mãi trong ký ức mọi người. Mẹ là người con yêu mến nhất trong cuộc đời, tuy rằng con chưa nói lời này với mẹ bao giờ. Con chỉ thầm gọi và cầu mong mẹ được mạnh khỏe sống mãi bên chúng con.</item>
+        <item>Mẹ ơi, hàng ngày nhìn thấy mẹ đau ốm, phải uống thuốc thay cả cơm con buồn lắm mẹ à. Sang năm mới, con cầu chúc may mắn đến với mẹ, mẹ có thể hết bệnh và mãi mãi mạnh khỏe sống cùng chúng con. Chúc mẹ mau lành bệnh mẹ nhé.</item>
+
+    </string-array>
+
+    <string-array name="ny">
+
+        <item>Chúc anh năm mới nhiều may mắn, lắm thành công. Tiền vào như nước sóng thần, tiền ra chầm chậm như cần hoa sen.</item>
+        <item>Chúc anh sang năm mới nhiều măn máy à lộn may mắn, luôn luôn mạnh khỏe, vui vẻ, tươi trẻ, thật nhiều tiền chẵn và ít tiền lẻ.</item>
+        <item>Chúc anh Năm Mới 2018: Sức khỏe Kinh Kông - Như Lý Tiểu Long - Vạn sự Thành công - Sách vở tinh thông - Cho thỏa ước mong - Của người uy phong - Tài trí vô song.</item>
+        <item>Chúc em năm mới vui vẻ, gặp nhiều hạnh phúc, ăn nhiều vào để không còn là que củi nữa nhé em :)</item>
+        <item>Năm mới đã sang, anh chúc em luôn mạnh khỏe, trẻ đẹp, mãi là cô gái dịu dàng xinh tươi, đoan trang trong mắt anh và mọi người. Hãy nhớ là anh mãi luôn bên em, chia sẻ với em mọi niềm vui nỗi buồn trong cuộc sống.</item>
+        <item>Năm 2018 chúc cho ấy của anh luôn trẻ, khỏe, năng động trong học tập và cuộc sống. Chúc ấy yêu năm mới đạt được thật nhiều thành công hơn năm cũ! Cố lên nhé!</item>
+        <item>Chúc em cùng gia đình năm mới dồi dào sức khỏe, bình an, hạnh phúc, làm ăn phát tài phát lộc, công tác tốt, thăng quan tiến chức nhé!</item>
+        <item>Chúng mình đã bên nhau được ... năm... tháng ... ngày rồi em nhỉ! Thời gian chưa lâu nhưng em đã cùng cùng anh vượt qua biết bao khó khăn trong cuộc sống. Anh tự hứa với bản thân mình dù cuộc sống có thăng trầm đi nữa anh vẫn mãi luôn ở bên quan tâm, chăm sóc và yêu thương em đến hết cuộc đời. Chúc em yêu năm mới tràn đầy niềm tin và hy vọng để cùng anh xây đắp hạnh phúc cho chúng mình mãi bền lâu em yêu nhé!</item>
+        <item>Chúc em một năm mới tốt lành, gặp được nhiều niềm vui, may mắn và thành công... Nhớ là phải luôn xinh xắn nhá!</item>
+        <item>Chúc em một năm mới vui vẻ, 12 tháng sức khoẻ, 52 tuần thành công, 365 ngày hạnh phúc, 8.760 giờ tốt lành, 525.600 phút may mắn, 31.536.000 giây như ý...</item>
+        <item>Anh đã thấy bé vui như thế nào khi được anh chở đi xem đường hoa lúc tối. Nụ cười vẫn còn ngây thơ giữa biết bao nhiêu bão giông cuộc đời mà bé đã chịu. Năm mới, không gì hơn, anh mong bé có đủ sức khỏe để giữ mãi nụ cười trên môi ấy bé nhé. Dẫu còn nhiều khó khăn, trắc trở, nhưng anh sẽ dìu bé cùng đi suốt quãng đời còn lại... Anh yêu bé...</item>
+        <item>Xuân mới tràn ngập khắp muôn nơi. Trong tiết trời xuân sắc nở rộ, em đã không kề cận bên anh, người chiến sĩ hải quân để cùng nhau hân hoan tận hưởng hương xuân. Năm mới đến tình em không có gì đổi thay, tình cảm vẫn chất đầy dạt dào biển mặn. Nhân đây em thành tâm chúc đến anh cùng đồng đội một năm ngập tràn niềm vui, dạt dào sức khỏe. Luôn vui trong sức khỏe-trẻ trong tâm hồn -đẹp trong lí tưởng. Vững tâm đối đầu với sóng gió.</item>
+        <item>Chúc anh sang năm mới có nhiều niềm vui, thành công trong cuộc sống, công việc thuận lợi, phong độ và cân nặng giữ nguyên, đừng tăng cân nữa anh nhé</item>
+        <item>Chu kỳ thời gian dần trở về khởi điểm. Mùa xuân lại về trên quê hương, đem may mắn đến cho mọi người. Hòa trong niềm vui đó, anh xin chúc em luôn tươi trẻ, vui vẻ và hạnh phúc. Hãy tin rằng dù ta còn xa cách nhau về khoảng cách địa lý, nhưng khoảng cách của con tim thì ta mãi mãi bên nhau, em nhé. Anh yêu em</item>
+        <item>Chúc em năm mới ấm áp, vui vẻ, hạnh phúc và thành công trong công việc và học tập. Anh sẽ ở bên cạnh chăm sóc, cổ vũ và động viên em.</item>
+        <item>Anh à, năm mới em hy vọng anh có nhiều cái mới. Những cái cũ xếp xó một bên đi. Đừng làm lòng mình không thể mới vì những cái cũ kỹ. New Year, New YOU</item>
+        <item>Chúc tình yêu của em năm mới 2018 luôn có sức khoẻ dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh</item>
+        <item>Năm mới vui vẻ, may mắn, thành công nhé anh, yêu anh nhiều.</item>
+        <item>Em muốn nói với anh rằng anh là cả cuộc đời em. Yêu anh tận sâu thẳm trong trái tim. Em ko thể thiếu anh. Anh là tình yêu của em. Năm mới em chúc cho tình yêu của chúng mình mãi đẹp như thủa ban đầu luôn cháy bỏng anh nhé!</item>
+        <item>Em. Thật lòng muốn có một mối tình kéo dài từ năm này sang năm khác. Thời khắc chuyển giao năm mới, người đó đứng cạnh bên em, nắm tay em, và nói yêu em 365 ngày mũ en nờ lần</item>
+        <item>Nếu giọt nước là những nụ hôn, anh sẽ trao em biển cả. Nếu là những ôm ấp vuốt ve anh sẽ tặng em cả rừng cây. Nếu đêm dài là tình yêu anh gửi em cả trởi sao lấp lánh. Nhưng anh không có quyền tặng em trái tim vì  nới đó đã thuộc về em. Chúc em năm mới tình yêu của anh xOXOxOXO</item>
+        <item>Bây giờ anh đã yêu em, hôm nay và ngày mai nữa, và Chúa đã cho anh thời gian. Anh sẽ yêu em đến cuối cuộc đời. Chúc tình yêu của anh một năm mới hạnh phúc và may mắn.</item>
+        <item>Nếu như nói trái đất may mắn vì có được mặt trời, những con thuyền may mắn vì có đại dương để vùng vẫy, cỏ cây có mặt đất để sinh tồn… thì phải nói anh là một người cực kì may mắn vì anh đã có được em trong cuộc đời. Chúc em yêu của anh năm mới mọi sự tốt lành.</item>
+        <item>Trên Trái Đất có 7.000.000.000 người. Và anh không hiểu vì sao anh chỉ nhắn tin cho mỗi mình em. Có lẽ vì 6.999.999.999 người còn lại không thể thay thế được em. Happy new year my love!</item>
+        <item>Mỗi ngày, khi Chúa mở cánh cửa thiên đường, Ngài nhìn anh và hỏi: “Điều ước hôm nay của con là gì?”. Anh trả lời: “ Xin Người hãy bảo vệ người đang đọc tin nhắn này suôt năm mới đến và suốt cuộc đời này và cầu chúc ngài hãy để con luôn được chăm sóc người con yêu này".</item>
+        <item>Em à một năm đã qua, chúng ta đã vượt qua nhiều trở ngại, năm qua a đã làm em buồn nhiều rồi a xin lỗi và dù thế nào anh cũng cám ơn em đã luôn bên anh và tin tưởng anh. Cầu chúc em yêu của anh năm mới bình an và anh sẽ chăm sóc em nhiều hơn và chúng ta luôn bên nhau em nhé!</item>
+        <item>Năm mới, anh chỉ chúc em được nhiều sức khỏe thôi. Còn về hạnh phúc và niềm vui, anh mong rằng chính mình sẽ là người mang những điều đó đến với em. Yêu em nhiều!</item>
+        <item>Hãy giữ mãi nụ cười trên môi nhé em! Em có biết là, em rất dễ thương khi em cười không? Năm mới hãy cho anh cơ hội được chăm sóc nụ cười đó nha em.</item>
+
+    </string-array>
+
+    <string-array name="thayco">
+
+        <item>Nhân dịp năm mới, con chúc các thầy cô luôn khỏe, gặp nhiều may mắn và nụ cười lúc nào cũng nở trên môi khi nhìn thấy những lớp học sinh của mình lớn khôn và thành người.</item>
+        <item>Chúc mừng các thầy cô nhân dịp năm mới. Kính chúc các thầy cô luôn mạnh khoẻ, hạnh phúc, thành đạt trong công việc và trong sự nghiệp trồng người!
+            Dù đi khắp bốn phương trời, mãi nhớ về Người! Thầy cô như ánh nến soi tõ đêm khuya Như tấm bảng đen vẽ nên kiến thức trong mỗi học trò Dẫu mai đi bốn phương trời Những lời thầy dạy đời đời khắc ghi .</item>
+        <item>Năm mới đến em chúc thấy cô năm mới An Khanh Thịnh Vượng, sức khỏe dồi dào hạnh phúc. Chúc thầy và toàn thể học trò của thầy cô năm học thành công và nhiều học sinh giỏi.</item>
+        <item>Nhân dịp năm mới, em xin gởi đến quý Thầy Cô lời cảm ơn chân thành đã dìu dắt chúng em đễn gần hơn với chân trời kiến thức. Kính chúc quý Thầy Cô luôn luôn mạnh khỏe và hạnh phúc để luôn mang đến cho chúng em ngày càng nhiều bài học hay và bổ ích.</item>
+        <item>Năm mới "con xin gửi lời tri ân chân thành, sâu lắng tới những người cha, người mẹ thứ hai trong cuộc đời chúng con". Con chúc thầy cô năm mới hạnh phúc sức khỏe.</item>
+        <item>Dưới ánh sáng mặt trời, không có nghề gì cao quý bằng nghề dạy học. Chúc các thầy, các cô luôn mạnh khỏe, bình an, công tác tốt và có một gia đình hạnh phúc".</item>
+        <item>Kính chúc qúy Thầy Cô và gia đinh một năm mới Đinh Dậu SỨC KHỎE DỒI DÀO, VẠN SỰ NHƯ Ý</item>
+        <item>Kính chúc qúy thầy cô,và đại gia đình một năm mới an khang thịnh vượng,dồi dào sức khoẻ và an bình...</item>
+        <item>Sang năm Đinh Dậu năm 2017 , kính chúc qúy Thầy, qúy Cô cùng tất cả các anh chị, các bạn một năm mới bình an, sức khoẻ dồi dào. Công danh thuận lợi, gặp nhiều may mắn và thành công.</item>
+        <item>Chúc thầy cô luôn vui vẻ , luôn tươi trẻ và luôn chấm điểm rẻ. Chúc thầy cô có 1 bầu trời sức khỏe-->1 Biển cả tình thương-->1 Đại dương tình mẹ-->1 Điệp khúc tình cha-->1 Gia đình thịnh vượng.Chúc cả gia đình thầy cô vạn sự như ý --> Tỉ sự như mơ --> Triệu điều bất ngờ --> Không chờ cũng đến!!!</item>
+        <item>Em chúc tất cả các thầy cô giáo luôn mạnh khoẻ, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự dũng cảm trước những đứa học trò nghịch như quỷ sứ bọn em.</item>
+        <item>Ơn dạy dỗ cao dường hơn núi, nghĩa Thầy Cô như nước biển khơi, công Cha Mẹ con luôn tạc dạ, ơn Thầy Cô con mãi ghi lòng. Nhân dịp năm mới con chúc Thầy/cô dồi dào sức khỏe, năm mới An khang - Thịnh vượng.</item>
+        <item>Thầy! Thầy giống như ông em vậy, em chỉ muốn nói với thầy điều này thôi: Chúc thầy luôn luôn hạnh phúc trong đời nhà giáo. Và có 1 trong 10000 điều hạnh phúc của thầy là bọn em!! Những học sinh khóa cuối của thầy!
+            Happy smile</item>
+        <item>Là một đứa học trò cá biệt trong lớp, em đã làm cô buồn thật nhiều. Đã có lần em bật khóc khi nhìn vào ánh mắt nặng trĩu của cô. Nhân dịp năm mới em chúc cô sức khỏe, gia đình hạnh phúc và mọi điều may mắn trong cuộc sống. Em cám ơn cô rất nhiều</item>
+        <item>Nhân dịp năm mới con chúc mừng các thầy cô luôn tươi trẻ để có những bài học hay cho thế hệ trẻ ngày nay.
+Sang năm mới con xin kính chúc các thầy cô giáo thêm sức khỏe để dạy dỗ cho các em những lứa học sinh tiếp bước vào đời trở thành con người có ích cho Xã hội, có tài góp sức xây dựng đất nước.</item>
+        <item>Thật hạnh phúc làm sao khi mỗi ngày chúng con đi đến lớp: lại được biết thêm những điều mới , lại được hiểu thêm về cuộc sống này và đặc biệt hơn là lại được thấy khuôn mặt thân thương , nụ cười dịu hiền và dáng vẻ hăng say giảng bài cho chúng con của thầy cô . Chúng con đang cùng đi trên một chuyến đò qua con sông rộng mênh mông : của tri thức. Và nhiều lúc con tự hỏi mình rằng: , nếu không có các thầy, các cô thì làm sao chúng con có thể chèo chống để đi được hết dòng sông tri thức?</item>
+        <item>Em xin chúc các thầy các cô lời chúc tốt đẹp nhất. chúc các thầy cô hoàn thành nhiệm vụ cao cả của mình trong sự nghiệp trăm năm trồng người, trong công cuộc đổi mới của đất nước. Em chân thành cám ơn các thầy cô</item>
+        <item>Kính thưa thày, ngày đầu xuân năm mới, con xin kính chúc thày cô và gia quyến vạn sự an khang để dẫn dắt chúng con nên ngư­ời".
+- Con xin kính chúc thày cô suốt đời hạnh phúc, kính chúc thày cô có lớp lớp học sinh mỗi khi nhắc tới thày cô đều tỏ lòng kính yêu, mến phục!</item>
+        <item>Chúc mừng các thầy cô nhân ngày tết Nguyên Đán Đinh Dậu. Xin kính chúc thầy cô, thành công tiếp nối thành công trong sự nghiệp giáo dục, nhận nhiều quân, huy chương vì sự nghiệp giáo dục, xứng đáng là nhà giáo ưu tú...</item>
+        <item>Tập thể lớp 12A1 xin cám ơn thầy cô đã nhiệt tình giảng dậy và quan tâm đến mọi người trong lớp chúng em. Đây là năm cuối chúng em còn được học thầy (cô) vì vậy chúng em sẽ cố gắng để vượt qua kỳ thi THPT Quốc gia sắp tới để không phụ lòng thầy cô những năm thắng qua. Thầy (cô) sẽ là người thầy trong trái tim chúng em</item>
+
+    </string-array>
+
+    <string-array name="english">
+
+        <item>In this New Year, I wish you achieve all your goals in life,
+            And get success at every step of life, enjoy a wonderful 2018.</item>
+        <item>I wish that all your wishes are fulfilled this year... Happy new year</item>
+        <item>A new year, new start and way to go.Wish you successful and glorious</item>
+        <item>Forget the pains, sorrows, and sadness behind,
+            Let us welcome this New Year with big smile,
+            Wish you Happy New Year!</item>
+        <item>Hope the New sun of the New Year and the new moon of the New Year, Brings good fortune and great luck for you, Wish you Happy New Year!</item>
+        <item>Wishing You A Year Filled With Great Joy Peace And Prosperity
+            Have A Wonderful Year Ahead Happy New Year!!!</item>
+        <item>Wish you a happy new year, May every good present day,
+            Becomes a treasure for a better tomorrow,
+            Happy New Year!
+        </item>
+        <item>Forget the pains, sorrows, and sadness behind,
+            Let us welcome this New Year with big smile</item>
+        <item>I Wish in this new year God gives You,
+            12 Month of Happiness,
+            52 Weeks of Fun,
+            365 Days Success,
+            8760 Hours Good Health,
+            52600 Minutes Good Luck,
+            3153600 Seconds of Joy…and that’s all!</item>
+        <item>Wish you Happy New Year!
+            Wish you receive god is greatest bliss, life is happiest moments,
+            And luck is greatest favors this year, Wish you Happy New Year!"</item>
+        <item>Hope the New sun of the New Year and the new moon of the New Year,
+            Brings good fortune and great luck for you, Wish you Happy New Year!</item>
+        <item>I wish you scatter happiness all 365 days and get the same in return,
+            As well throughout this New Year, Wish you a Happy New Year!!</item>
+        <item>It is your chance to write a beautiful story for yourself,
+Happy New Year 2018.</item>
+        <item>I wish U to have a
+Sweetest Sunday
+Marvelous Monday
+Tasty Tuesday
+Wonderful Wednesday
+Thankful Thursday,
+Fridendly Friday,
+Successful Saturday
+Have a great year
+Happy new year 2018</item>
+        <item>When u r lonely,
+I wish u Love!
+When u r down,
+I wish u Joy!
+When u r troubled,
+I wish u Peace!
+When things seem empty,
+I wish u Hope!
+And I wish U Too..
+Have A Happy New Year 2018 !!!</item>
+        <item>Hearty wishes..,
+May almighty ponder upon u,
+with his marvelous blessings,
+give u Health, Wealth, Peace and Happiness,
+Wishing u and family a prosperous new year!</item>
+        <item>
+            As I think about our friendship and how happy it has made me,
+I want to wish you happiness in the year to come.
+Happy New Year 2018.</item>
+        <item>As the New Year approaches us with hopes new, here is wishing you,
+And your family a wonderful year ahead,
+Happy New Year.</item>
+
+    </string-array>
+
+    <string-array name="haihuoc">
+
+        <item>Năm mới chúc bạn cười đến chẹo quai hàm, ham làm đến quên mệt mỏi, học giỏi đến khỏi lo thi, cứ đo là thành, cứ ăn là khỏe …. Happy new year!</item>
+        <item>Gâu gâu gâu! Anh sống thật lâu, tiền vô như nước, gia đình đại phước, sức khỏe dồi dào, hạnh phúc tuôn trào!</item>
+        <item>Chúc bạn: 12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công, 31536000 giây vạn sự như ý.</item>
+        <item>Nhân dịp năm mới chúc ông bà sống lâu trăm tuổi, chúc ba mẹ sức khỏe dồi dào, chúc cô chú nhà cửa an khang, chúc anh chị vui vẻ, hạnh phúc</item>
+        <item>Ra đi gặp được bạn hiền. Quay về gặp được người thương yêu mình. Sang xuân sự nghiệp hanh thông, tài cao, chí lớn vẫy vùng đó đây.</item>
+        <item>Năm mới chúc nhau sức khỏe nhiều, bạc tiền rủng rỉnh thoải mái tiêu, gia đình hạnh phúc bè bạn quý, thanh thản vui chơi mọi buổi chiều.</item>
+        <item>Mậu Tuất đã đến, ăn nhậu lai rai, tiền vô như nước, muốn gì cũng được, thịnh vượng bình an, chúc mừng năm mới!</item>
+        <item>Mậu Tuất vừa sang, hạnh phúc mênh mang, ý chí vững vàng, niềm vui rộn ràng, tiền bạc lai láng, sức khỏe cường tráng, cả nhà cười vang, chúc mừng năm mới</item>
+        <item>Chúc ông bà 1 tô như ý. Chúc cô chú 1 chén an khang. Chúc anh chị 1 dĩa, 1 dĩa…tài lộc!</item>
+        <item>Giao thừa sắp đến. Chúc bạn đáng mến. Sự nghiệp tiến lên. Gặp nhiều điều hên!</item>
+        <item>Chúc năm mới: 1 vợ, 2 con, nhà 3 tầng, xe 4 chỗ!</item>
+        <item>Thay mặt những gia đình nghèo, nạn nhân của các cơn bão năm qua trên đất nước ta, xin chúc quý vị ăn Tết thật xa hoa, lãng phí!</item>
+        <item>Sang năm mới chúc mọi người có một bầu trời sức khoẻ, một biển cả tình thương, một đại dương tình cảm, một điệp khúc tình yêu, một người yêu chung thủy, một tình bạn mênh mông, một gia đình thịnh vượng.</item>
+        <item>Chúc các bà, các ông, các cô, các chú, các chị, các anh sang năm mới vạn sự như ý, tỷ sự như mơ, làm việc như thơ, đời vui như nhạc, coi tiền như rác, coi bạc như rơm, chung thủy với cơm và sắc son với phở. Chúc mừng năm mới!</item>
+        <item>Chúc ông chúc bà – Chúc cha chúc mẹ – Chúc cô chúc cậu – Chúc chú chúc dì – Chúc anh chúc chị – Chúc luôn các em – Chúc cả các cháu – Dồi dào sức khoẻ – Có nhiều niềm vui – Tiền xu nặng túi – Tiền giấy đầy bao – Đi ăn được khao – Về nhà người rước – Tiền vô như nước – Tình vào đầy tim – Chăn ấm nệm êm – Sung sướng ban đêm – Hạnh phúc ban ngày – Luôn luôn gặp may.</item>
+
+    </string-array>
+
+    <string-array name="jopen">
+
+        <item>明けましておめでとうございます｡</item>
+        <item>新年おめでとうございます.</item>
+        <item>よいお年を</item>
+        <item>本年もどうぞよろしくお願いします｡</item>
+        <item>皆様のご健康をお祈り申し上げます｡</item>
+        <item>新しい年が順調でありますように</item>
+        <item>昨年は大変お世話になり ありがとうございました｡</item>
+        <item>すべてが順調にいきますように</item>
+        <item>新しい年が順調でありますように</item>
+        <item>金運に恵まれますように</item>
+        <item>財源が広がりますように</item>
+        <item>ますます裕福になりますように</item>
+        <item>幸運がもたらしますように</item>
+        <item>万事順調にいきますように</item>
+
+    </string-array>
+
+    <string name="facebook_app_id">184826112104034</string>
+    <string name="fb_login_protocol_scheme">fb184826112104034</string>
+
+    <string name="chamemenu">Cha mẹ</string>
+    <string name="thaycomenu">Thầy cô</string>
+    <string name="nguoiyeumenu">Người yêu</string>
+    <string name="vochongmenu">Thơ</string>
+    <string name="haymenu">Hay</string>
+    <string name="haimenu">Hài hước</string>
+    <string name="englishmenu">Tiếng Anh</string>
+    <string name="japanmenu">Tiếng Nhật</string>
+    <string name="sendSms">Gửi sms</string>
+    <string name="mau">Gửi lời chúc tết</string>
+    <string name="home">Trang chủ</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="send">Gửi</string>
+    <string name="chooseNumberphone">Chọn số điện thoại</string>
+    <string name="share">Chia sẻ</string>
+    <string name="sendMessage">Gửi messager</string>
+    <string name="info">Thông tin về sản phẩm</string>
+    <string name="cmmm">Chúc mừng năm mới 2018</string>
+    <string name="cmmmen">HAPPY NEW YEAR</string>
+
+    <string name="banner_home_footer">ca-app-pub-5500691912127373/4907239187</string>
+    <string name="interstitial_full_screen">ca-app-pub-5500691912127373/1111464406</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="@dimen/largeElevation"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="@dimen/smallRadius"
+    android:layout_marginRight="@dimen/marginLarge"
+    android:layout_marginLeft="@dimen/marginLarge">
+
+    <TextView
+        android:background="@color/white"
+        android:textColor="@color/textBlack"
+        android:textSize="@dimen/mediumText"
+        android:id="@+id/tv_mau"
+        android:layout_margin="@dimen/mediumMargin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</android.support.v7.widget.CardView>

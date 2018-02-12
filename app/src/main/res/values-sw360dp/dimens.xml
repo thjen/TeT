@@ -1,0 +1,36 @@
+<resources>
+
+<dimen name="marginLarge">12.0dp</dimen>
+<dimen name="smallMargin">3.75dp</dimen>
+<dimen name="mediumMargin">7.5dp</dimen>
+<dimen name="supperMediumMargin">15.0dp</dimen>
+<dimen name="bigMargin">18.75dp</dimen>
+<dimen name="supperLargeMargin">22.5dp</dimen>
+<dimen name="nestedMargin">82.5dp</dimen>
+
+<dimen name="smallRadius">3.75dp</dimen>
+<dimen name="mediumRadius">7.5dp</dimen>
+<dimen name="largeRadius">11.25dp</dimen>
+<dimen name="smallElevation">1.5dp</dimen>
+<dimen name="largeElevation">3.75dp</dimen>
+<dimen name="collapsingtoolbar">187.5dp</dimen>
+<dimen name="navigationViewWidth">332.25dp</dimen>
+<dimen name="textSend">300.0dp</dimen>
+<dimen name="cardMenu">82.5dp</dimen>
+<dimen name="dialogContac">375.0dp</dimen>
+<dimen name="divider">0.75dp</dimen>
+<dimen name="imageclear">30.0dp</dimen>
+<dimen name="btloginMargin">97.5dp</dimen>
+<dimen name="buttonn">120.0dp</dimen>
+<dimen name="marginSearch">75.0dp</dimen>
+<dimen name="marginList">75.0dp</dimen>
+<dimen name="margincmm">112.5dp</dimen>
+<dimen name="searchheight">30.0dp</dimen>
+
+<dimen name="smallText">11.25sp</dimen>
+<dimen name="mediumText">15.0sp</dimen>
+<dimen name="quiteText">18.75sp</dimen>
+<dimen name="largeText">22.5sp</dimen>
+<dimen name="superLargeText">26.25sp</dimen>
+
+</resources>
